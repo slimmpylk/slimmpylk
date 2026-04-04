@@ -3,7 +3,7 @@
   
   # slimmpylk
 
-  **Electrical Engineer — Radio Technology & Embedded Systems**  
+  **Electrical Engineer Radio Technology & Embedded Systems**  
   Finland 🇫🇮
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuli-p-797386b4/)
