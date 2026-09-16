@@ -52,7 +52,7 @@ Open to opportunities in RF engineering, signal processing, and embedded systems
 
 ## Currently building
 
-- 🐾 **DIY sport/smartwatc** Schematics are almost done and next is PCB designing
+- 🐾 **DIY sport/smartwatch** Schematics are almost done and next is PCB designing
 - 🔭 Looking for my next RF or embedded role
 
 ---
