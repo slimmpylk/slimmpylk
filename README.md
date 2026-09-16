@@ -39,7 +39,7 @@ Open to opportunities in RF engineering, signal processing, and embedded systems
 | Repo | What it is |
 |---|---|
 | [RobotFramework-Nrf5340](https://github.com/slimmpylk/RobotFramework-Nrf5340) | Hardware-in-the-loop test automation for nRF5340 targets |
-| [PCB-project-stm32.02](https://github.com/slimmpylk/PCB-project-stm32.02) | Custom STM32 PCB design, rev 2 |
+| [Sport/Smartwatch](https://github.com/slimmpylk/Sport-smartwatch-project) | Homemade sportwatch with PCB design |
 | [servo-safe-arduino](https://github.com/slimmpylk/servo-safe-arduino) | Safe servo control library for Arduino |
 | [ugreen-mouse-fix](https://github.com/slimmpylk/ugreen-mouse-fix) | Linux fix for UGREEN wireless mouse side buttons — because someone had to |
 | [qt-puppycam](https://github.com/slimmpylk/qt-puppycam) | Headless MJPEG webcam streamer in Qt6/C++/V4L2 for Raspberry Pi |
